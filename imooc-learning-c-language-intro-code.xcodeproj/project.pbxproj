@@ -7,11 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EE523428255C806B00564D9F /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = EE523427255C806B00564D9F /* main.c */; };
+		EE1E258A255C8945000D5740 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = EE1E2589255C8945000D5740 /* main.c */; };
+		EE1E2599255C8A32000D5740 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = EE1E2598255C8A32000D5740 /* main.c */; };
+		EE1E25A6255C8B28000D5740 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = EE1E25A5255C8B28000D5740 /* main.c */; };
+		EE1E25B4255C8B73000D5740 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = EE1E25B3255C8B73000D5740 /* main.c */; };
+		EE1E25C3255C8BF1000D5740 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = EE1E25C2255C8BF1000D5740 /* main.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		EE523422255C806B00564D9F /* CopyFiles */ = {
+		EE1E2585255C8945000D5740 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		EE1E2594255C8A32000D5740 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		EE1E25A1255C8B28000D5740 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		EE1E25AF255C8B73000D5740 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		EE1E25BE255C8BF1000D5740 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +63,48 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		EE523424255C806B00564D9F /* imooc-learning-c-language-intro-code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "imooc-learning-c-language-intro-code"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EE523427255C806B00564D9F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		EE1E2587255C8945000D5740 /* imooc-learning-c-language-intro-code-1-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "imooc-learning-c-language-intro-code-1-1"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE1E2589255C8945000D5740 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		EE1E2596255C8A32000D5740 /* imooc-learning-c-language-intro-code-1-2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "imooc-learning-c-language-intro-code-1-2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE1E2598255C8A32000D5740 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		EE1E25A3255C8B28000D5740 /* imooc-learning-c-language-intro-code-1-4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "imooc-learning-c-language-intro-code-1-4"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE1E25A5255C8B28000D5740 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		EE1E25B1255C8B73000D5740 /* imooc-learning-c-language-intro-code-1-5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "imooc-learning-c-language-intro-code-1-5"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE1E25B3255C8B73000D5740 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		EE1E25C0255C8BF1000D5740 /* imooc-learning-c-language-intro-code-1-6 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "imooc-learning-c-language-intro-code-1-6"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE1E25C2255C8BF1000D5740 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		EE523421255C806B00564D9F /* Frameworks */ = {
+		EE1E2584255C8945000D5740 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE1E2593255C8A32000D5740 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE1E25A0255C8B28000D5740 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE1E25AE255C8B73000D5740 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE1E25BD255C8BF1000D5740 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,10 +114,54 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EE1E2588255C8945000D5740 /* imooc-learning-c-language-intro-code-1-1 */ = {
+			isa = PBXGroup;
+			children = (
+				EE1E2589255C8945000D5740 /* main.c */,
+			);
+			path = "imooc-learning-c-language-intro-code-1-1";
+			sourceTree = "<group>";
+		};
+		EE1E2597255C8A32000D5740 /* imooc-learning-c-language-intro-code-1-2 */ = {
+			isa = PBXGroup;
+			children = (
+				EE1E2598255C8A32000D5740 /* main.c */,
+			);
+			path = "imooc-learning-c-language-intro-code-1-2";
+			sourceTree = "<group>";
+		};
+		EE1E25A4255C8B28000D5740 /* imooc-learning-c-language-intro-code-1-4 */ = {
+			isa = PBXGroup;
+			children = (
+				EE1E25A5255C8B28000D5740 /* main.c */,
+			);
+			path = "imooc-learning-c-language-intro-code-1-4";
+			sourceTree = "<group>";
+		};
+		EE1E25B2255C8B73000D5740 /* imooc-learning-c-language-intro-code-1-5 */ = {
+			isa = PBXGroup;
+			children = (
+				EE1E25B3255C8B73000D5740 /* main.c */,
+			);
+			path = "imooc-learning-c-language-intro-code-1-5";
+			sourceTree = "<group>";
+		};
+		EE1E25C1255C8BF1000D5740 /* imooc-learning-c-language-intro-code-1-6 */ = {
+			isa = PBXGroup;
+			children = (
+				EE1E25C2255C8BF1000D5740 /* main.c */,
+			);
+			path = "imooc-learning-c-language-intro-code-1-6";
+			sourceTree = "<group>";
+		};
 		EE52341B255C806B00564D9F = {
 			isa = PBXGroup;
 			children = (
-				EE523426255C806B00564D9F /* imooc-learning-c-language-intro-code */,
+				EE1E2588255C8945000D5740 /* imooc-learning-c-language-intro-code-1-1 */,
+				EE1E2597255C8A32000D5740 /* imooc-learning-c-language-intro-code-1-2 */,
+				EE1E25A4255C8B28000D5740 /* imooc-learning-c-language-intro-code-1-4 */,
+				EE1E25B2255C8B73000D5740 /* imooc-learning-c-language-intro-code-1-5 */,
+				EE1E25C1255C8BF1000D5740 /* imooc-learning-c-language-intro-code-1-6 */,
 				EE523425255C806B00564D9F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,37 +169,101 @@
 		EE523425255C806B00564D9F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EE523424255C806B00564D9F /* imooc-learning-c-language-intro-code */,
+				EE1E2587255C8945000D5740 /* imooc-learning-c-language-intro-code-1-1 */,
+				EE1E2596255C8A32000D5740 /* imooc-learning-c-language-intro-code-1-2 */,
+				EE1E25A3255C8B28000D5740 /* imooc-learning-c-language-intro-code-1-4 */,
+				EE1E25B1255C8B73000D5740 /* imooc-learning-c-language-intro-code-1-5 */,
+				EE1E25C0255C8BF1000D5740 /* imooc-learning-c-language-intro-code-1-6 */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		EE523426255C806B00564D9F /* imooc-learning-c-language-intro-code */ = {
-			isa = PBXGroup;
-			children = (
-				EE523427255C806B00564D9F /* main.c */,
-			);
-			path = "imooc-learning-c-language-intro-code";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EE523423255C806B00564D9F /* imooc-learning-c-language-intro-code */ = {
+		EE1E2586255C8945000D5740 /* imooc-learning-c-language-intro-code-1-1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EE52342B255C806B00564D9F /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code" */;
+			buildConfigurationList = EE1E258D255C8945000D5740 /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code-1-1" */;
 			buildPhases = (
-				EE523420255C806B00564D9F /* Sources */,
-				EE523421255C806B00564D9F /* Frameworks */,
-				EE523422255C806B00564D9F /* CopyFiles */,
+				EE1E2583255C8945000D5740 /* Sources */,
+				EE1E2584255C8945000D5740 /* Frameworks */,
+				EE1E2585255C8945000D5740 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "imooc-learning-c-language-intro-code";
-			productName = "imooc-learning-c-language-intro-code";
-			productReference = EE523424255C806B00564D9F /* imooc-learning-c-language-intro-code */;
+			name = "imooc-learning-c-language-intro-code-1-1";
+			productName = "imooc-learning-c-language-intro-code-1-1";
+			productReference = EE1E2587255C8945000D5740 /* imooc-learning-c-language-intro-code-1-1 */;
+			productType = "com.apple.product-type.tool";
+		};
+		EE1E2595255C8A32000D5740 /* imooc-learning-c-language-intro-code-1-2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE1E259A255C8A32000D5740 /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code-1-2" */;
+			buildPhases = (
+				EE1E2592255C8A32000D5740 /* Sources */,
+				EE1E2593255C8A32000D5740 /* Frameworks */,
+				EE1E2594255C8A32000D5740 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "imooc-learning-c-language-intro-code-1-2";
+			productName = "imooc-learning-c-language-intro-code-1-2";
+			productReference = EE1E2596255C8A32000D5740 /* imooc-learning-c-language-intro-code-1-2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		EE1E25A2255C8B28000D5740 /* imooc-learning-c-language-intro-code-1-4 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE1E25A7255C8B28000D5740 /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code-1-4" */;
+			buildPhases = (
+				EE1E259F255C8B28000D5740 /* Sources */,
+				EE1E25A0255C8B28000D5740 /* Frameworks */,
+				EE1E25A1255C8B28000D5740 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "imooc-learning-c-language-intro-code-1-4";
+			productName = "imooc-learning-c-language-intro-code-1-4";
+			productReference = EE1E25A3255C8B28000D5740 /* imooc-learning-c-language-intro-code-1-4 */;
+			productType = "com.apple.product-type.tool";
+		};
+		EE1E25B0255C8B73000D5740 /* imooc-learning-c-language-intro-code-1-5 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE1E25B5255C8B73000D5740 /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code-1-5" */;
+			buildPhases = (
+				EE1E25AD255C8B73000D5740 /* Sources */,
+				EE1E25AE255C8B73000D5740 /* Frameworks */,
+				EE1E25AF255C8B73000D5740 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "imooc-learning-c-language-intro-code-1-5";
+			productName = "imooc-learning-c-language-intro-code-1-5";
+			productReference = EE1E25B1255C8B73000D5740 /* imooc-learning-c-language-intro-code-1-5 */;
+			productType = "com.apple.product-type.tool";
+		};
+		EE1E25BF255C8BF1000D5740 /* imooc-learning-c-language-intro-code-1-6 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE1E25C4255C8BF1000D5740 /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code-1-6" */;
+			buildPhases = (
+				EE1E25BC255C8BF1000D5740 /* Sources */,
+				EE1E25BD255C8BF1000D5740 /* Frameworks */,
+				EE1E25BE255C8BF1000D5740 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "imooc-learning-c-language-intro-code-1-6";
+			productName = "imooc-learning-c-language-intro-code-1-6";
+			productReference = EE1E25C0255C8BF1000D5740 /* imooc-learning-c-language-intro-code-1-6 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -90,7 +274,19 @@
 			attributes = {
 				LastUpgradeCheck = 1210;
 				TargetAttributes = {
-					EE523423255C806B00564D9F = {
+					EE1E2586255C8945000D5740 = {
+						CreatedOnToolsVersion = 12.1;
+					};
+					EE1E2595255C8A32000D5740 = {
+						CreatedOnToolsVersion = 12.1;
+					};
+					EE1E25A2255C8B28000D5740 = {
+						CreatedOnToolsVersion = 12.1;
+					};
+					EE1E25B0255C8B73000D5740 = {
+						CreatedOnToolsVersion = 12.1;
+					};
+					EE1E25BF255C8BF1000D5740 = {
 						CreatedOnToolsVersion = 12.1;
 					};
 				};
@@ -108,23 +304,159 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EE523423255C806B00564D9F /* imooc-learning-c-language-intro-code */,
+				EE1E2586255C8945000D5740 /* imooc-learning-c-language-intro-code-1-1 */,
+				EE1E2595255C8A32000D5740 /* imooc-learning-c-language-intro-code-1-2 */,
+				EE1E25A2255C8B28000D5740 /* imooc-learning-c-language-intro-code-1-4 */,
+				EE1E25B0255C8B73000D5740 /* imooc-learning-c-language-intro-code-1-5 */,
+				EE1E25BF255C8BF1000D5740 /* imooc-learning-c-language-intro-code-1-6 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		EE523420255C806B00564D9F /* Sources */ = {
+		EE1E2583255C8945000D5740 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE523428255C806B00564D9F /* main.c in Sources */,
+				EE1E258A255C8945000D5740 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE1E2592255C8A32000D5740 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE1E2599255C8A32000D5740 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE1E259F255C8B28000D5740 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE1E25A6255C8B28000D5740 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE1E25AD255C8B73000D5740 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE1E25B4255C8B73000D5740 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE1E25BC255C8BF1000D5740 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE1E25C3255C8BF1000D5740 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		EE1E258B255C8945000D5740 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT93JJ48BC;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE1E258C255C8945000D5740 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT93JJ48BC;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EE1E259B255C8A32000D5740 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT93JJ48BC;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE1E259C255C8A32000D5740 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT93JJ48BC;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EE1E25A8255C8B28000D5740 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT93JJ48BC;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE1E25A9255C8B28000D5740 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT93JJ48BC;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EE1E25B6255C8B73000D5740 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT93JJ48BC;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE1E25B7255C8B73000D5740 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT93JJ48BC;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EE1E25C5255C8BF1000D5740 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT93JJ48BC;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EE1E25C6255C8BF1000D5740 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT93JJ48BC;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		EE523429255C806B00564D9F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -236,43 +568,59 @@
 			};
 			name = Release;
 		};
-		EE52342C255C806B00564D9F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = QT93JJ48BC;
-				ENABLE_HARDENED_RUNTIME = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-			};
-			name = Debug;
-		};
-		EE52342D255C806B00564D9F /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = QT93JJ48BC;
-				ENABLE_HARDENED_RUNTIME = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		EE1E258D255C8945000D5740 /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code-1-1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE1E258B255C8945000D5740 /* Debug */,
+				EE1E258C255C8945000D5740 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE1E259A255C8A32000D5740 /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code-1-2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE1E259B255C8A32000D5740 /* Debug */,
+				EE1E259C255C8A32000D5740 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE1E25A7255C8B28000D5740 /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code-1-4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE1E25A8255C8B28000D5740 /* Debug */,
+				EE1E25A9255C8B28000D5740 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE1E25B5255C8B73000D5740 /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code-1-5" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE1E25B6255C8B73000D5740 /* Debug */,
+				EE1E25B7255C8B73000D5740 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE1E25C4255C8BF1000D5740 /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code-1-6" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE1E25C5255C8BF1000D5740 /* Debug */,
+				EE1E25C6255C8BF1000D5740 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		EE52341F255C806B00564D9F /* Build configuration list for PBXProject "imooc-learning-c-language-intro-code" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EE523429255C806B00564D9F /* Debug */,
 				EE52342A255C806B00564D9F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		EE52342B255C806B00564D9F /* Build configuration list for PBXNativeTarget "imooc-learning-c-language-intro-code" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				EE52342C255C806B00564D9F /* Debug */,
-				EE52342D255C806B00564D9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
